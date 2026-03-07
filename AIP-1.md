@@ -22,3 +22,12 @@ Required functions:
 
 ## Compatibility
 ART20 is designed to be compatible with ERC20-based tooling.
+## Security Considerations
+
+Implementations of ART20 should follow secure smart contract development practices.
+
+Developers should ensure protection against common vulnerabilities such as:
+
+- integer overflow or underflow
+- reentrancy
+- improper access control
